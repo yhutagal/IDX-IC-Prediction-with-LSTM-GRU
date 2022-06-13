@@ -1,5 +1,5 @@
 # IDX-Industrial Classification Prediction-with-LSTM-GRU
-#### Research Project : Stocks Prediction with Macro Economy, Micro Economy and VIX Index
+#### Research Project : Stocks Prediction with Macroeconomy, Microeconomy and VIX Index
 
 
 
